@@ -1,4 +1,3 @@
-# Readme.md
 <center><font face = "宋体" font color = blue size = 20>Markdown入门练习</font></center>
 
 <center><font face = "黑体" size = 5>记录</font></center>
@@ -56,10 +55,13 @@
 >>["真正展示的内容"]+("链接跳转的地址")
 
 >如:
+>>[点我去B站](https://www.bilibili.com)
 >>>注意:域名不可省略
 
 ## 8.图片
 >由于安装了paste image插件,现在可以直接复制粘贴图片
+
+![alt text](5bb62b1e542ed91557e31714426c4930_2942857737639501212.jpg)
 
 ## 9.符号`起到标记作用,符号/起到转义作用
 >在需要标记的符号两侧加上述符号即可,如:
